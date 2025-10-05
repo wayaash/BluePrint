@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"BZ1","1","Buzzer","","","","Buzzer_Beeper:Buzzer_12x9.5RM7.6","~"
+"J1","1","Conn_01x02_Socket","","","","Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical","~"
+"Q1,Q2","2","BC547","","","","Package_TO_SOT_THT:TO-92_Inline","https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+"RV1","1","10k","","","","Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical","~"
+"TH1","1","Thermistor_US","","","","LED_THT:LED_D3.0mm_IRGrey","~"
