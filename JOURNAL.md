@@ -10,3 +10,14 @@ This is my journal of the design and building process of **TEMPRATURE ALARM SYST
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/176).
 
 
+## 10/10/2025 - drew the schematic  
+
+in this stage I just created a schematic and added everything to the schematic also I like joint everything together I just told the thing that from where the current should pass and from where it should go. and like this I created the schematic diagram and also you know I told the thing about which items to use and how everything works out!
+
+
+this thing took me like 45 mins. but i cannot like fix mins in hour section, so i written 1 hour in there
+
+![Screenshot 2025-10-05 152440.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MywicHVyIjoiYmxvYl9pZCJ9fQ==--4c5a6b83f3db3718ead44fbb3457608930f6f997/Screenshot%202025-10-05%20152440.png)
+[Screenshot 2025-10-05 152440.png](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c8db72e09fc6c8aa7331f91da9b42f1ce1e430ca/Screenshot%202025-10-05%20152440.png)
+  
+
