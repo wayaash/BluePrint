@@ -10,7 +10,7 @@ This is my journal of the design and building process of **TEMPRATURE ALARM SYST
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/176).
 
 
-## 10/10/2025 - drew the schematic  
+## 10/10/2025 2:37 PM - drew the schematic  
 
 in this stage I just created a schematic and added everything to the schematic also I like joint everything together I just told the thing that from where the current should pass and from where it should go. and like this I created the schematic diagram and also you know I told the thing about which items to use and how everything works out!
 
@@ -19,5 +19,14 @@ this thing took me like 45 mins. but i cannot like fix mins in hour section, so 
 
 ![Screenshot 2025-10-05 152440.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MywicHVyIjoiYmxvYl9pZCJ9fQ==--4c5a6b83f3db3718ead44fbb3457608930f6f997/Screenshot%202025-10-05%20152440.png)
 [Screenshot 2025-10-05 152440.png](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c8db72e09fc6c8aa7331f91da9b42f1ce1e430ca/Screenshot%202025-10-05%20152440.png)
+  
+
+## 10/10/2025 2:45 PM - Its Time For PCB Design!!  
+
+in this stage, i designed the pcb. i told the system that where on the circuit board should each item be placed. i fixed everything to be at good place and then i did the wiring on the board. this made everything almost finished. here i saw everything and its location.
+
+this thing took me about 1 and half an hour because i was struck at something and it very dumb thing tbh :(
+
+![Screenshot 2025-10-05 152424.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e2ac326ea3769a248394cb9a28b504b7025ff68/Screenshot%202025-10-05%20152424.png)
   
 
