@@ -30,3 +30,12 @@ this thing took me about 1 and half an hour because i was struck at something an
 ![Screenshot 2025-10-05 152424.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e2ac326ea3769a248394cb9a28b504b7025ff68/Screenshot%202025-10-05%20152424.png)
   
 
+## 10/10/2025 2:53 PM - Wrapping everything up  
+
+finally i polished everything up and wrapped everything up. i drew the outlines of the pcb. i placed 4 holes on pcb. this thing was to make pcb fit on my table with some screws. i also figures out another dumb mistake. fixing that mistake also took an hour. 
+
+this took me nearly 2.5 hour and i was really tired after doing this thing!!
+
+![Screenshot 2025-10-05 152506.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1NywicHVyIjoiYmxvYl9pZCJ9fQ==--1c43be117d6905b54d648ad1d391e7f2c4bebaab/Screenshot%202025-10-05%20152506.png)
+  
+
